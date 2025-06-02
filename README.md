@@ -29,7 +29,7 @@
 
 <p align="left">
   <a href="mailto:arya.r1384@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://t.me/your_username"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/></a>
+  <a href="https://t.me/AJanuTwinkleR"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/></a>
   <a href="https://stackoverflow.com/users/26700243/arya-r" target="_blank">
   <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
 </a>
