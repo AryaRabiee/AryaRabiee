@@ -2,13 +2,9 @@
 
 <img align="right" alt="Arya waving" width="50" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=670707&background=FFEEA000&center=true&width=435&lines=I'm+a+Backend+Developer+...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2DA198&width=435&lines=Python+Developer+%7C+ML%2FDL+Enthusiast)](https://git.io/typing-svg)
 
-
-
-- 🔭 I’m currently working on **web application project using Django**
-
-- 🌱 I’m currently learning **data analysis with Python.**
+- 🔭 I’m currently working on **Python projects in Machine Learning and Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AryaRabiee](https://github.com/AryaRabiee)
 
